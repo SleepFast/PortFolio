@@ -173,20 +173,13 @@ header{
             font-weight: bolder;
         }
 
-        div.cv{
-            background: linear-gradient(to right, #ffffff 0%, #570450 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-weight: bolder;
-            font-size: 1.6rem;
-            text-shadow: #ff00003f 1px 0 10px;
+        div a.last{
+            color: rgb(255, 0, 242);
+            text-decoration: none;
+            font-size: 24px;
         }
-
-        div.cv a:hover{
-            background: linear-gradient(to right,#570450,#a71157);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-shadow: #ff00003f 1px 0 8px;
+        div a.last:hover{
+            text-shadow: #000000 1px 0 10px;
         }
 
         div.cv{
