@@ -5,7 +5,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: url(/Portfolio/image/Bg.jpg);
+    background-image: url(Portfolio/image/Bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     }
