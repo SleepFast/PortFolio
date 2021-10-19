@@ -76,6 +76,7 @@ header{
             flex-direction: column;
         }
         .skill .name span{
+            margin: 10px 0 ;
             /* box-shadow: 9.91px 9.91px 15px grey,
              -9.91px -9.91px 15px white; */
             padding: 5px 5px;
@@ -87,7 +88,6 @@ header{
         }
         .skill .name span:hover{
             background: linear-gradient(to right,#570450,#a71157);
-            margin : 15px 0;
             box-shadow:4px 4px 8px #d9dade,
                 -4px -4px 8px white,
                 inset 4px 4px 8px #d9dade,
